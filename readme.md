@@ -1,6 +1,6 @@
 # Welcome to gov2table
 
-#tag
+# Tag
 ```
 <gov2table :get-url="geturl" :readonly="true"></gov2table>
 ```
